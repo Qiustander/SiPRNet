@@ -10,7 +10,7 @@ The `requirements.txt` file should list all Python libraries that your notebooks
 pip install -r requirements.txt
 ```
 
-## Testing
+## Running
 - A experimental testing images are included in the `Data` folder.
 - The trained model for the RAF & Fashion-MNIST dataset can be found in the release: https://github.com/Qiustander/SiPRNet/releases/tag/SiPRNet. Please download them and place in the `Model` folder.
 - Test the model:
