@@ -5,9 +5,10 @@
 
 
 ## Prerequisites
-- Linux
-- Python 3
-- NVIDIA GPU  + CUDA cuDNN
+The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using:
+```bash
+pip install -r requirements.txt
+```
 
 ## Testing
 - A experimental testing images are included in the `Data` folder.
