@@ -11,8 +11,7 @@
 
 ## Testing
 - A experimental testing images are included in the `Data` folder.
-- The trained model for the RAF dataset can be found in `Model/SiPRNet_RAF.pth`.
-- The trained model for the Fashion-MNIST dataset can be found in `Model/SiPRNet_Fashion.pth`.
+- The trained model for the RAF & Fashion-MNIST dataset can be found in the release: https://github.com/Qiustander/SiPRNet/releases/tag/SiPRNet. Please download them and place in the `Model` folder.
 - Test the model:
 ```bash
 python Save_result_SiPRNet.py
