@@ -22,3 +22,5 @@ The test results will be saved to the folder: `./Result`.
 #### Please change `dataset_name` (RAF/Fashion) in the `Save_result_SiPRNet.py` to generate the results with specific datasets.
 
 
+## Result
+![](Figures/Fig_Github_Example.png)
