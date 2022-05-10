@@ -23,4 +23,4 @@ The test results will be saved to the folder: `./Result`.
 
 
 ## Result
-![](Figures/Fig_Github_Example.png =250x)
+![](Figures/Fig_Github_Example.png =100x50)
