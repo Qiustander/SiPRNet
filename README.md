@@ -24,4 +24,4 @@ The test results will be saved to the folder: `./Result`.
 
 ## Result
 
-<img src="Figures/Fig_Github_Example.png" width="1000" height="800">
+<img src="Figures/Fig_Github_Example.png" width="1036" height="558">
