@@ -1,4 +1,4 @@
-# SiPRNet: End-to-End Learning for Single-Shot Phase Retrieval
+# SiSPRNet: End-to-End Learning for Single-Shot Phase Retrieval
 #### Authors: Qiuliang Ye, Li-Wen Wang, Daniel P. K. Lun
 
 ![](Figures/Fig_Network_Structure.png)
