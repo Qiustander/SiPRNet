@@ -21,3 +21,6 @@ authors:
   - given-names: Pak-Kong
     family-names: Lun
     affiliation: 'The Hong Kong Polytechnic University '
+    
+date-released: "2022-07-01"    
+repository-code: "https://github.com/Qiustander/SiPRNet"
