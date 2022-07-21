@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SiSPRNet: End-to-End Learning for Single-Shot Phase
+  Retrieval
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Qiuliang
+    family-names: Ye
+    email: qiu-liang.ye@connect.polyu.hk
+    affiliation: The Hong Kong Polytechnic University
+    orcid: 'https://orcid.org/0000-0002-9353-9157'
+  - given-names: Li-Wen
+    family-names: Wang
+    affiliation: 'The Hong Kong Polytechnic University '
+  - given-names: Pak-Kong
+    family-names: Lun
+    affiliation: 'The Hong Kong Polytechnic University '
