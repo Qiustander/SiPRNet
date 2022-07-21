@@ -4,6 +4,11 @@
 ![](Figures/Fig_Network_Structure.png)
 
 
+This repository contains models trained by PyTorch. If you find this work useful in your research, please cite:
+```
+```
+
+
 ## Prerequisites
 The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using:
 ```bash
