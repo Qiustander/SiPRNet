@@ -6,6 +6,18 @@
 
 This repository contains models trained by PyTorch. If you find this work useful in your research, please cite:
 ```
+@ARTICLE{Ye_SiSPRNet,
+author = {Qiuliang Ye and Li-Wen Wang and Daniel P. K. Lun},
+journal = {Opt. Express},
+number = {18},
+pages = {31937--31958},
+publisher = {Optica Publishing Group},
+title = {{SiSPRNet}: end-to-end learning for single-shot phase retrieval},
+volume = {30},
+month = {Aug},
+year = {2022},
+doi = {10.1364/OE.464086},
+  }
 ```
 
 
